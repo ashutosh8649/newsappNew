@@ -1,0 +1,11 @@
+    <div class="card bg-dark text-white">
+    <img class="card-img-top" src="{{fav.urlToImage}}" alt="could nt download image">
+    <div class="card-body">
+      <h5 class="card-title">{{fav.title}}</h5>
+      <p class="card-text">{{fav.description}}</p>
+      <p class="card-text">
+		<button type="button" class="btn btn-danger"(click)="removeFav(fav.id)">Remove Favourite</button>
+	  </p>
+      <p class="card-text"><small class="text-muted">{{fav.publishedAt}}</small></p>
+    </div>
+    </div>

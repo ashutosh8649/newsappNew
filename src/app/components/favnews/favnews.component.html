@@ -1,0 +1,7 @@
+<div class="container">
+<div class="row mh1">
+<div class="col-sm-4" *ngFor="let fav of favList">
+  <app-fav-article (success)="afterRemove($event)" [fav]="fav"></app-fav-article>
+</div>
+</div>
+</div>

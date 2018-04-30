@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Zerohedge.com"
+      },
+      "author": "Tyler Durden",
+      "title": "Trump Bump... Or Trump Dump?",
+      "description": "Responsible? Or, irresponsible? Source: Townhall.com",
+      "url": "https://www.zerohedge.com/news/2018-02-08/trump-bump-or-trump-dump",
+      "urlToImage": "https://www.zerohedge.com/sites/default/files/2018-02/gmc15560420180206120800.jpg",
+      "publishedAt": "2018-02-08T20:40:00Z",
+      "id": 3
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dribbble.com"
+      },
+      "author": "Tom Wegrzyn",
+      "title": "Messi",
+      "description": "One of the best soccer players of all time.  Hi-Res image in attachments.",
+      "url": "https://dribbble.com/shots/4265742-Messi",
+      "urlToImage": "https://cdn.dribbble.com/users/2064161/screenshots/4265742/messi_01.jpg",
+      "publishedAt": "2018-02-24T17:41:47Z",
+      "id": 5
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deviantart.com"
+      },
+      "author": null,
+      "title": "Messi",
+      "description": "☺",
+      "url": "https://xultima.deviantart.com/art/Messi-732672470",
+      "urlToImage": "https://orig00.deviantart.net/4ea6/f/2018/055/0/2/messi_by_xultima-dc47pp2.png",
+      "publishedAt": "2018-02-25T03:09:02Z",
+      "id": 6
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sueddeutsche.de"
+      },
+      "author": "Analyse von Thorsten Denkler, New York",
+      "title": "Trump interessiert nur Trump",
+      "description": "Die europäische Woche in Washington ist vorbei, die Ergebnisse bescheiden. Weder Merkel noch Macron haben einen Weg gefunden, Trump zu knacken.",
+      "url": "http://www.sueddeutsche.de/politik/merkel-und-macron-in-washington-trump-interessiert-nur-trump-1.3960994",
+      "urlToImage": "http://media-cdn.sueddeutsche.de/image/sz.1.3960995/940x528?v=1524877960",
+      "publishedAt": "2018-04-28T06:40:17Z",
+      "id": 7
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "MPX",
+      "title": "'Trump Country' rejects Trump",
+      "description": "President Trump promised the GOP would win the Pennsylvania special election because he is so beloved in a district he won by 20 points. That's not how things went.",
+      "url": "https://www.msnbc.com/all-in/watch/-trump-country-rejects-trump-1186243651791",
+      "urlToImage": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201803/n_hayes_atrumpcountryrejects_180314_1920x1080.1200;630;7;70;5.jpg",
+      "publishedAt": "2018-03-15T01:10:00Z",
+      "id": 8
+    }
+  ]
+}
